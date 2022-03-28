@@ -9,7 +9,14 @@
     border: 3px solid black;
     line-height: 50px;
     text-align: center;
-}    
+}  
+
+/* row-6 */
+
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
 
 .box-in{
     background-color: cadetblue;
@@ -20,7 +27,8 @@
     margin-top: 10px;
 }
 
-.wrapper{
-    width: 90%;
-    margin: 0 auto;
+/* section-2 */
+
+.sect-2{
+    margin-top: 1em;
 }
