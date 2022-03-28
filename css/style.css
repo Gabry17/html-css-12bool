@@ -1,0 +1,10 @@
+.row{
+    background-color: yellow;
+}
+
+.box{
+    width: 100%;
+    height: 200px;
+    background-color: burlywood;
+    border: 3px solid black;
+}
