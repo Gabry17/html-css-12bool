@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgb(18, 18, 126);
+}
+
+
+/* HEADER */
+
+header{
+    margin-top: 3em;
+}
+
+.box-header{
+    width: 100%;
+    height: 90px;
+    background-color: whitesmoke;
+}
+
+/* MAIN */
+main{
+    margin-top: 7em;
+}
+
+.box-main{
+    width: 100%;
+    height: 90px;
+    background-color: green;
+}
+
+.box-bottom{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(50, 18, 18);
+}
+
+.box-in{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    margin: auto;
+    border-radius: 40%;
+}
+
+/* FOOTER */
+.box-footer{
+    width: 100%;
+    height: 200px;
+    background-color: darkslategray;
+}
